@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab: HTML 
 
 For this lab, imagine you are creating a travel blog and want to build a webpage showcasing your recent trip to Fire Island. You will need to include the following pieces on your webpage:
@@ -80,3 +81,21 @@ Before you submit your solution, you need to save your progress with git.
 4. When you are ready to submit, click the Load Lab: HTML button below to launch CodeGrade.
   * Click on + Create Submission. Connect your repository for this lab.
   * For additional information on submitting assignments in CodeGrade: Getting Started in Canvas
+=======
+## Hi there 👋
+
+<!--
+**1Enock/1Enock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 95a7ff9 (Initial commit)
